@@ -13,5 +13,8 @@ struct emusimApp: App {
         WindowGroup {
             ContentView()
         }
+        Settings {
+            SettingsView()
+        }
     }
 }
