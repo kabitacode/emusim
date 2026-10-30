@@ -1,9 +1,8 @@
-<img width="300" height="300" alt="logo-emusim" src="https://github.com/user-attachments/assets/3552a2a7-837d-401e-a6c9-7890223addf0" />
-
-
-# EmuSim
-
-Run, stop and wipe iOS simulators and Android emulators from one window.
+<div align="center">
+  <img width="300" height="300" alt="logo-emusim" src="https://github.com/user-attachments/assets/3552a2a7-837d-401e-a6c9-7890223addf0" />
+  <h1>EmuSim</h1>
+  <p>Run, stop and wipe iOS simulators and Android emulators from one window.</p>
+</div>
 
 ## Install
 
